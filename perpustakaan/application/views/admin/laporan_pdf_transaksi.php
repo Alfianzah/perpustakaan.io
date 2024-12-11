@@ -18,7 +18,7 @@
 }
 </style>
 
-<h3>Laporan Transaksi Rental Mobil</h3>
+<h3>Laporan Transaksi Rental Buku</h3>
 <table>
     <tr>
         <td>Dari Tgl</td>
